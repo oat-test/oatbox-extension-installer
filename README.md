@@ -1,0 +1,1 @@
+# oatbox-extension-installer
